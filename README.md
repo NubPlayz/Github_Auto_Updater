@@ -178,3 +178,29 @@ Feel free to open issues or pull requests!
 ```
 
 an app to manage your outdated github repositories and exe.
+```
+
+---
+
+
+## EXE Tests (virus scans) 
+
+### VirusTotal   
+
+
+Passed 67 Vendors Test past out of 68 Vendors  !
+
+<img width="1890" height="505" alt="image" src="https://github.com/user-attachments/assets/06db91e0-5359-4ef6-b1cc-9f9689bfb226" />
+
+
+
+<img width="1669" height="873" alt="image" src="https://github.com/user-attachments/assets/61f92c4c-30b8-454b-a4a8-739cacbed160" />
+
+
+<img width="651" height="898" alt="image" src="https://github.com/user-attachments/assets/0680b301-44f5-4e93-9293-7e474940072a" />
+
+
+###
+
+
+
