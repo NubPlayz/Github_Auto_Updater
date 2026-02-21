@@ -19,6 +19,9 @@ It works for both normal cloned repositories and packaged executables, and it al
 - Works as a normal Python script or as a standalone .exe
 - Simple and clean Streamlit web interface
 
+<img width="1915" height="831" alt="image" src="https://github.com/user-attachments/assets/24c403ec-b483-4927-90fc-4cdfdef43a3d" />
+
+
 ---
 
 # Local / Cloned Version
@@ -74,11 +77,16 @@ Before every synchronization operation:
 > Maximum of 3 backups kept per target  
 > Oldest backup is automatically deleted when the limit is exceeded
 
+<img width="1903" height="864" alt="image" src="https://github.com/user-attachments/assets/b59d86c8-1f89-4571-8f54-9fc7fdd8d0af" />
+
+
 
 
 # Executable (Packaged) Version
 
 You can package the app into a single `.exe` using PyInstaller.
+
+<img width="346" height="200" alt="image" src="https://github.com/user-attachments/assets/4188b590-7e84-47cd-9a36-2a3572cb9752" />
 
 ## Behavior Differences from Cloned Version
 
