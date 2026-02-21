@@ -29,7 +29,6 @@ It works for both normal cloned repositories and packaged executables, and it al
 # Local / Cloned Version
 
 ### Installation
-```markdown
 
 
 ```bash
